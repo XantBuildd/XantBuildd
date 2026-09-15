@@ -1,27 +1,39 @@
-# Hi, I'm Nicolas 👋
+# Hey, I'm Nicolas 👋
 
-I'm a **Computer Systems Engineering student** who enjoys building things for the web.
+I'm a **Computer Systems Engineering student** passionate about building things for the web.
 
-I like working on **frontend, full-stack development, UI/UX and interactive experiences**. I also enjoy experimenting with animation and 3D on the web.
+I enjoy turning ideas into **clean interfaces, useful applications and interactive digital experiences**.
 
-### Tech
+### ✦ What I’m into
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion
+* 💻 **Frontend & Full-Stack Development**
+* 🎨 **UI/UX & Motion Design**
+* 🌐 **3D Web & Creative Development**
+* 🧠 Learning about **software architecture and new technologies**
+* 🚀 Building projects that are actually useful
 
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Prisma
+### 🛠️ Technologies I work with
 
-**Other:** Three.js, Blender, GSAP, Python
+**Frontend**
 
-### Projects
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-* **NØVA** — Digital studio portfolio focused on motion and interactive design.
-* **Stripe Ecommerce** — Full-stack ecommerce with authentication, payments and product management.
-* **AbrigCo** — Ecommerce project built with Next.js, Prisma and PostgreSQL.
+**Backend**
 
-### Find me
+`Node.js` `Express` `MongoDB` `PostgreSQL` `Prisma`
 
-[LinkedIn](https://www.linkedin.com/in/xantb-nicolas) · [GitHub](https://github.com/XantBuildd)
+**Currently exploring**
+
+`Three.js` `Blender` `GSAP` `Python`
+
+### 🤝 Let's connect
+
+If you're interested in technology, design or building cool things, feel free to connect.
+
+**LinkedIn:** [linkedin.com/in/xantb-nicolas](https://www.linkedin.com/in/xantb-nicolas)
 
 ---
 
-*Just building things and learning along the way.*
+<p align="center">
+  <sub>Made with curiosity & a lot of ☕</sub>
+</p>
