@@ -1,56 +1,27 @@
-# Hey, I'm Nicolas 👋
+# Hi, I'm Nicolas 👋
 
-I'm a **Computer Systems Engineering student** passionate about building things for the web.
+I'm a **Computer Systems Engineering student** who enjoys building things for the web.
 
-I enjoy turning ideas into **clean interfaces, useful applications and interactive digital experiences**.
+I like working on **frontend, full-stack development, UI/UX and interactive experiences**. I also enjoy experimenting with animation and 3D on the web.
 
-### ✦ What I’m into
+### Tech
 
-* 💻 **Frontend & Full-Stack Development**
-* 🎨 **UI/UX & Motion Design**
-* 🌐 **3D Web & Creative Development**
-* 🧠 Learning about **software architecture and new technologies**
-* 🚀 Building projects that are actually useful
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion
 
-### 🛠️ Technologies I work with
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, Prisma
 
-**Frontend**
+**Other:** Three.js, Blender, GSAP, Python
 
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+### Projects
 
-**Backend**
+* **NØVA** — Digital studio portfolio focused on motion and interactive design.
+* **Stripe Ecommerce** — Full-stack ecommerce with authentication, payments and product management.
+* **AbrigCo** — Ecommerce project built with Next.js, Prisma and PostgreSQL.
 
-`Node.js` `Express` `MongoDB` `PostgreSQL` `Prisma`
+### Find me
 
-**Currently exploring**
-
-`Three.js` `Blender` `GSAP` `Python`
-
-### 📌 Featured Projects
-
-**NØVA**
-A futuristic digital studio portfolio focused on motion, visual design and interactive experiences.
-
-**Stripe Ecommerce**
-A full-stack ecommerce platform with authentication, payments, product management and cloud services.
-
-**AbrigCo**
-A modern ecommerce experience built with Next.js, Prisma and PostgreSQL.
-
-### 🌱 Currently learning
-
-I'm continuously improving my skills in **frontend architecture, animations, 3D web experiences and full-stack development**.
-
-> *Build. Learn. Improve. Repeat.*
-
-### 🤝 Let's connect
-
-If you're interested in technology, design or building cool things, feel free to connect.
-
-**LinkedIn:** [linkedin.com/in/xantb-nicolas](https://www.linkedin.com/in/xantb-nicolas)
+[LinkedIn](https://www.linkedin.com/in/xantb-nicolas) · [GitHub](https://github.com/XantBuildd)
 
 ---
 
-<p align="center">
-  <sub>Made with curiosity & a lot of ☕</sub>
-</p>
+*Just building things and learning along the way.*
